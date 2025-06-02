@@ -6,20 +6,22 @@ neural networks (CNNs), have achieved state-of-the-art performance in this domai
 Research Objectives: 
 1. Develop a robust face recognition model capable of differentiating between multiple individuals. 
 2. Address challenges such as overfitting, class imbalance, and variations in facial features. 
+
 Building Deep Learning Network 
 Dataset 
+
 Description 
 The dataset consists of three folders (‘train’, ‘test’, and ‘validation’), each containing images categorized 
 into the following classes: 
-1. Ela 
-2. Scarlet Johanson 
-3. Hugh Jackman 
+ 1. Ela 
+ 2. Scarlet Johanson 
+ 3. Hugh Jackman 
 Preprocessing 
-1. Face Detection: Haar Cascade classifier was used to detect faces, and cropped images were 
-saved. 
-2. Normalization: Pixel values were scaled to the range [0, 1]. 
-3. Data Augmentation: Augmentations included random cropping, rotation, horizontal flipping, 
-Gaussian Blur, brightness adjustment, and hue saturation.
+ 1. Face Detection: Haar Cascade classifier was used to detect faces, and cropped images were 
+ saved. 
+ 2. Normalization: Pixel values were scaled to the range [0, 1]. 
+ 3. Data Augmentation: Augmentations included random cropping, rotation, horizontal flipping, 
+ Gaussian Blur, brightness adjustment, and hue saturation.
 
 Deep Learning Network 
 Network Architecture 
