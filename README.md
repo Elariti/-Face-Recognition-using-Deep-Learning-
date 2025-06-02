@@ -123,3 +123,13 @@ Additionally, the use of celebrity images may limit applicability to real-world 
 2. MTCNN GitHub Repository: https://github.com/ipazc/mtcnn
 3. OpenCV Documentation: https://docs.opencv.org
 
+## Dataset (Not Included)
+
+The dataset used for this project (`DSET/`) is excluded from the repository due to size.
+
+### Expected Folder Structure:
+![image](https://github.com/user-attachments/assets/a6dde1ec-3ea2-438b-92ff-aaf6fbe845da)
+
+
+
+
